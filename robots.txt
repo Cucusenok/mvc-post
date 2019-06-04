@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Host: remont-spb.ru.com
+Sitemap: https://remont-spb.ru.com/sitemap.xml

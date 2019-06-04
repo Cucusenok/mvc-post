@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>https://remont-spb.ru.com/</loc>
+	<lastmod>2019-03-02T20:05:27+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://remont-spb.ru.com/price</loc>
+	<lastmod>2019-03-02T20:05:27+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://remont-spb.ru.com/gallery</loc>
+	<lastmod>2019-03-02T20:05:27+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://remont-spb.ru.com/post/11</loc>
+	<lastmod>2019-03-02T20:05:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://remont-spb.ru.com/post/12</loc>
+	<lastmod>2019-03-02T20:05:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://remont-spb.ru.com/post/16</loc>
+	<lastmod>2019-03-02T20:05:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://remont-spb.ru.com/post/13</loc>
+	<lastmod>2019-03-02T20:05:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
